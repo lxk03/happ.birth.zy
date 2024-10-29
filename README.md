@@ -2,7 +2,7 @@
 
 ### Demo展示
 ---
-[https://lxk03.github.io/-happ.Birthda.zy/](https://zjw1111.github.io/BirthdayPage/)
+[[https://lxk03.github.io/-happ.Birthda.zy](https://lxk03.github.io/happ.birth.zy/)/](https://zjw1111.github.io/BirthdayPage/)
 ## 相关fork说明
 ---
 网页主要模板来自：[https://github.com/ayusharma/birthday](https://github.com/ayusharma/birthday)
